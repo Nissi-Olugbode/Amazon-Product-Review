@@ -33,7 +33,7 @@ Total Fields: 16 columns
 5. Converted price and discount fields to numeric data types
 6. Extracted review counts and parsed text fields
 7. Handled outliers in price and discount percentages
-8. Created calculated columns for metrics like potential revenue and price range buckets
+8. Created calculated columns for metrics like total potential revenue and price range buckets
    
 ### Exloratory Data Analysis
 Using Excel PivotTables and formulas, the following analyses were performed:
@@ -57,7 +57,8 @@ An interactive Excel dashboard was created to summarize and visualize the findin
 ### Insights
 - Certain categories consistently offer higher discounts (≥50%)
 - High product ratings do not always correlate with high review counts
-- Products priced between ₹200–₹500 dominate in both count and revenue potential
+- Products with the highest discount percentage had the highest ratings
+- Products priced between ₹1001–₹5000 dominate in both count and total potential potential
 - A significant number of products have fewer than 1,000 reviews, indicating room for growth
 - Top 5 products were identified based on a combined metric of rating and review count
 - Revenue potential is highest in categories with both moderate pricing and high engagement
