@@ -41,7 +41,7 @@ Using Excel PivotTables and formulas, the following analyses were performed:
 - Aggregated total reviews and unique product counts
 - Created discount Ranges (e.g 10-20%, 30-30%)
 - Segmented products by discount thresholds (e.g., ≥50%)
-- Bucketed products into price ranges (e.g $1000-2000)
+- Bucketed products into price ranges (e.g ₹1000-5000)
 - Computed total potential revenue as (actual_price × rating_count)
 - Investigated correlation between discount level and rating
 - calculated a column in terms of rating and number of reviews combined.
